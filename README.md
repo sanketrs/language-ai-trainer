@@ -72,9 +72,6 @@ This AI-powered MVP (Minimum Viable Product) is designed to help users enhance t
 1. Open the `frontend/index.html` file in your browser.
 
 2. Use the webpage interface:
-
-      ![alt text](frontend/assets/images/image.png)
-
    - **Record Your Voice**: Speak a sentence in English.
    - **Submit**: Click the submit button to send your recording to the backend for processing.
 
@@ -85,11 +82,14 @@ This AI-powered MVP (Minimum Viable Product) is designed to help users enhance t
 
 ### **Sample Webpage Screenshot**
 
-![AI Teacher Webpage](frontend_ui_screenshot.png)
-
+![AI Teacher Webpage](frontend/assets/images/image.png)
 ---
 
 ## **Example Console Output**
+
+### **Audio Response**
+You can find the generated audio response at the following location:
+`backend/response_37.mp3`
 
 ### **Starting the Server**
 ```plaintext
