@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+openai-whisper
+transformers
+gtts
+language-tool-python

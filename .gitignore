@@ -1,0 +1,7 @@
+# Python virtual environment
+venv/
+__pycache__/
+
+# Temporary audio files
+backend/temp/
+response.mp3
