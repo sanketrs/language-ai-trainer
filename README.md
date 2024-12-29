@@ -209,17 +209,26 @@ ai-teacher/
 
 ## **Future Enhancements**
 
-1. **Real-Time Interaction**:
-   - Integrate with a web or mobile app for live feedback.
+### **Real-Time Interaction**
+- Integrate with a web or mobile app for live feedback.
 
-2. **Additional Languages**:
-   - Add support for feedback in Hindi, Tamil, or other regional languages.
+### **Additional Languages**
+- Add support for feedback in Hindi, Tamil, or other regional languages.
 
-3. **Improved Voice Quality**:
-   - Use advanced TTS APIs like Google Cloud TTS for natural-sounding feedback.
+### **Improved Voice Quality**
+- Use advanced TTS APIs like Google Cloud TTS for natural-sounding feedback.
 
-4. **Custom Grammar Rules**:
-   - Tailor grammar feedback for Indian English speakers.
+### **Custom Grammar Rules**
+- Tailor grammar feedback for Indian English speakers.
+
+### **Expanded Functionalities**
+- Include sentence rephrasing suggestions for better clarity.
+
+### **User Progress Tracking**
+- Add features to track and display user improvements over time.
+
+### **Interactive Tutorials**
+- Provide step-by-step exercises to enhance grammar and vocabulary.
 
 ---
 
